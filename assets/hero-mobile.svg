@@ -1,0 +1,51 @@
+<svg width="720" height="840" viewBox="0 0 720 840" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Iman Majdabadi Farahani — Frontend Developer</title>
+  <desc id="desc">Mobile casebook-inspired profile header for a frontend developer focused on clear product interfaces.</desc>
+  <style>
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  </style>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#14282c" stroke-width="1" opacity=".55"/>
+    </pattern>
+  </defs>
+
+  <rect width="720" height="840" rx="28" fill="#081416"/>
+  <rect x="20" y="20" width="680" height="800" rx="20" fill="#0d1d20"/>
+  <rect x="20" y="20" width="680" height="800" rx="20" fill="url(#grid)" opacity=".48"/>
+  <path d="M20 84H700M20 372H700M20 750H700" stroke="#294348"/>
+
+  <g class="mono" font-size="13" letter-spacing="2.4">
+    <text x="48" y="55" fill="#ffb000">FIELD NOTES / 001</text>
+    <text x="603" y="55" fill="#55c4b2">TEHRAN</text>
+  </g>
+
+  <g>
+    <circle cx="360" cy="226" r="111" stroke="#294348" stroke-width="1.5" stroke-dasharray="7 9"/>
+    <circle cx="360" cy="226" r="86" stroke="#294348"/>
+    <path d="M360 106V346M240 226H480" stroke="#14282c"/>
+    <path d="M281 187L360 142L439 187V265L360 310L281 265V187Z" fill="#081416" stroke="#ffb000" stroke-width="2"/>
+    <text x="360" y="249" text-anchor="middle" fill="#f3ebdc" class="sans" font-size="67" font-weight="800" letter-spacing="-5">IM</text>
+    <rect x="333" y="269" width="54" height="5" rx="2.5" fill="#ffb000"/>
+    <circle cx="281" cy="187" r="4" fill="#ffb000"/>
+    <circle cx="439" cy="265" r="4" fill="#55c4b2"/>
+  </g>
+
+  <g transform="translate(48 414)">
+    <text fill="#ffb000" class="mono" font-size="14" letter-spacing="2.8">IMAN MAJDABADI FARAHANI</text>
+    <text y="77" fill="#f3ebdc" class="sans" font-size="52" font-weight="760" letter-spacing="-2">Hi, I'm Iman.</text>
+    <text y="133" fill="#f3ebdc" class="sans" font-size="52" font-weight="760" letter-spacing="-2">I build interfaces</text>
+    <text y="189" fill="#f3ebdc" class="sans" font-size="52" font-weight="760" letter-spacing="-2">for real workflows.</text>
+    <path d="M0 218H624" stroke="#294348"/>
+    <rect y="245" width="6" height="78" rx="3" fill="#ffb000"/>
+    <text x="24" y="267" fill="#91a4a3" class="sans" font-size="18">I like turning messy requirements into</text>
+    <text x="24" y="294" fill="#91a4a3" class="sans" font-size="18">interfaces that feel clear and useful.</text>
+  </g>
+
+  <g class="mono" font-size="12" letter-spacing="1.5">
+    <text x="48" y="785" fill="#91a4a3">BASED IN TEHRAN</text>
+    <text x="325" y="785" fill="#f3ebdc">REACT · TS · NEXT.JS</text>
+  </g>
+  <path d="M34 34H62M34 34V62M686 34H658M686 34V62M34 806H62M34 806V778M686 806H658M686 806V778" stroke="#ffb000" stroke-width="2"/>
+</svg>

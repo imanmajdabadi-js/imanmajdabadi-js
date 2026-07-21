@@ -1,0 +1,90 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Iman Majdabadi Farahani — Frontend Developer</title>
+  <desc id="desc">A custom casebook-inspired profile header for a frontend developer focused on clear product interfaces.</desc>
+
+  <style>
+    .bg { fill: #081416; }
+    .panel { fill: #0d1d20; }
+    .paper { fill: #f3ebdc; }
+    .muted { fill: #91a4a3; }
+    .accent { fill: #ffb000; }
+    .signal { fill: #55c4b2; }
+    .line { stroke: #294348; }
+    .faint { stroke: #14282c; }
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  </style>
+
+  <defs>
+    <pattern id="microGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" class="faint" stroke-width="1" opacity="0.55"/>
+    </pattern>
+    <clipPath id="frameClip">
+      <rect x="20" y="20" width="1160" height="460" rx="20"/>
+    </clipPath>
+    <linearGradient id="scanGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ffb000" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffb000" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#ffb000" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="500" rx="24" class="bg"/>
+  <rect x="20" y="20" width="1160" height="460" rx="20" class="panel"/>
+  <rect x="20" y="20" width="1160" height="460" rx="20" fill="url(#microGrid)" opacity="0.5"/>
+
+  <g clip-path="url(#frameClip)">
+    <path d="M390 20V480" class="line" stroke-width="1"/>
+    <path d="M20 82H1180" class="line" stroke-width="1"/>
+    <path d="M20 421H1180" class="line" stroke-width="1"/>
+    <rect x="530" y="82" width="140" height="339" fill="url(#scanGradient)" opacity="0.18"/>
+  </g>
+
+  <g class="mono" font-size="12" letter-spacing="2.3">
+    <text x="50" y="54" class="accent">FIELD NOTES / 001</text>
+    <text x="230" y="54" class="muted">PERSONAL README</text>
+    <text x="420" y="54" class="muted">FRONTEND DEVELOPER</text>
+    <text x="1035" y="54" class="signal">TEHRAN, IRAN</text>
+  </g>
+
+  <g>
+    <circle cx="205" cy="249" r="118" class="line dash" stroke-width="1.5" stroke-dasharray="7 9"/>
+    <circle cx="205" cy="249" r="93" class="line" stroke-width="1"/>
+    <path d="M205 116V382M72 249H338" class="faint" stroke-width="1"/>
+    <path d="M113 207L205 154L297 207V291L205 344L113 291V207Z" class="line" stroke-width="1.5"/>
+    <path d="M129 216L205 172L281 216V282L205 326L129 282V216Z" fill="#081416" stroke="#ffb000" stroke-width="2"/>
+    <text x="205" y="275" text-anchor="middle" class="paper sans" font-size="72" font-weight="800" letter-spacing="-5">IM</text>
+    <rect x="177" y="296" width="56" height="5" rx="2.5" class="accent"/>
+    <circle cx="113" cy="207" r="4" class="accent"/>
+    <circle cx="297" cy="291" r="4" class="signal"/>
+  </g>
+
+  <g transform="translate(420 112)">
+    <text class="accent mono" font-size="13" letter-spacing="3">IMAN MAJDABADI FARAHANI</text>
+    <text y="66" class="paper sans" font-size="54" font-weight="760" letter-spacing="-2.2">Hi, I'm Iman.</text>
+    <text y="124" class="paper sans" font-size="54" font-weight="760" letter-spacing="-2.2">I build interfaces</text>
+    <text y="182" class="paper sans" font-size="54" font-weight="760" letter-spacing="-2.2">for real workflows.</text>
+    <path d="M0 210H700" class="line" stroke-width="1"/>
+    <rect y="230" width="6" height="58" rx="3" class="accent"/>
+    <text x="24" y="251" class="muted sans" font-size="18">I like turning messy requirements into interfaces that feel clear and useful.</text>
+    <text x="24" y="279" class="muted sans" font-size="18">Most days: React, TypeScript, and a lot of small UI decisions.</text>
+  </g>
+
+  <g transform="translate(50 451)" class="mono" font-size="11" letter-spacing="1.6">
+    <text class="muted">BASED IN TEHRAN</text>
+    <text x="370" class="paper">REACT</text>
+    <circle cx="427" cy="-4" r="2.5" class="accent"/>
+    <text x="442" class="paper">TYPESCRIPT</text>
+    <circle cx="531" cy="-4" r="2.5" class="accent"/>
+    <text x="546" class="paper">NEXT.JS</text>
+    <circle cx="612" cy="-4" r="2.5" class="accent"/>
+    <text x="627" class="paper">PRODUCT UI</text>
+    <text x="974" class="muted">STILL LEARNING.</text>
+  </g>
+
+  <path d="M34 34H64M34 34V64M1166 34H1136M1166 34V64M34 466H64M34 466V436M1166 466H1136M1166 466V436" stroke="#ffb000" stroke-width="2"/>
+</svg>

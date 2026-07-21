@@ -1,0 +1,25 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Advanced Sticky Note</title>
+  <desc id="desc">An interactive note workspace with multiple sheets, drag, resize, and local persistence.</desc>
+  <style>
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  </style>
+  <rect width="1200" height="250" rx="22" fill="#081416"/>
+  <rect x="20" y="20" width="1160" height="210" rx="16" fill="#0d1d20" stroke="#294348"/>
+  <path d="M142 20V230M856 20V230" stroke="#294348"/>
+  <text x="54" y="142" fill="#f3ebdc" class="mono" font-size="64" font-weight="700">02</text>
+  <text x="176" y="58" fill="#55c4b2" class="mono" font-size="12" letter-spacing="2.5">PROJECT NOTE / INTERACTION</text>
+  <text x="176" y="105" fill="#f3ebdc" class="sans" font-size="38" font-weight="720" letter-spacing="-1">ADVANCED STICKY NOTE</text>
+  <text x="176" y="143" fill="#91a4a3" class="sans" font-size="16">A note workspace I built to explore drag, resize, multiple sheets,</text>
+  <text x="176" y="169" fill="#91a4a3" class="sans" font-size="16">and saving everything locally.</text>
+  <text x="176" y="207" fill="#ffb000" class="mono" font-size="11" letter-spacing="1.7">REACT  ·  TYPESCRIPT  ·  TAILWIND  ·  LOCAL STORAGE</text>
+  <g transform="translate(915 42)">
+    <rect x="0" y="34" width="116" height="110" rx="8" fill="#14282c" stroke="#294348" transform="rotate(-7 0 34)"/>
+    <rect x="52" y="10" width="116" height="110" rx="8" fill="#102528" stroke="#55c4b2" transform="rotate(5 52 10)"/>
+    <rect x="94" y="52" width="116" height="110" rx="8" fill="#ffb000"/>
+    <path d="M112 80H192M112 101H179M112 122H188" stroke="#081416" stroke-width="5" stroke-linecap="round" opacity=".78"/>
+    <path d="M190 144L210 124V144H190Z" fill="#f3ebdc" opacity=".75"/>
+  </g>
+  <path d="M34 34H62M34 34V62M1166 216H1138M1166 216V188" stroke="#55c4b2" stroke-width="2"/>
+</svg>
