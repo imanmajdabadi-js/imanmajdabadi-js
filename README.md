@@ -7,6 +7,11 @@
 
 </div>
 
+<p align="center">
+  I'm Iman Majdabadi Farahani (ایمان مجدآبادی فراهانی), a frontend developer based in Tehran, Iran.<br />
+  I build practical interfaces for real business workflows using React, TypeScript, and Next.js.
+</p>
+
 <br />
 
 <picture>
@@ -51,9 +56,3 @@
   </picture>
 </a>
 
-<!--
-CASEBOOK PREVIEW — FULL PROFILE DRAFT
-
-This draft intentionally contains only the opening visual. No GitHub profile
-repository has been created and nothing has been published yet.
--->
