@@ -1,0 +1,46 @@
+<svg width="720" height="430" viewBox="0 0 720 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rooz</title>
+  <desc id="desc">A Persian planner built around the solar Hijri calendar, with tasks mapped as a star map instead of a flat list.</desc>
+  <style>.mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}.sans{font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}</style>
+  <rect width="720" height="430" rx="28" fill="#081416"/>
+  <rect x="20" y="20" width="680" height="390" rx="20" fill="#0d1d20" stroke="#294348"/>
+  <path d="M20 112H700M20 312H700" stroke="#294348"/>
+  <text x="48" y="81" fill="#f3ebdc" class="mono" font-size="48" font-weight="700">01</text>
+  <text x="150" y="59" fill="#ffb000" class="mono" font-size="11" letter-spacing="2.2">PROJECT NOTE</text>
+  <text x="150" y="83" fill="#91a4a3" class="mono" font-size="11" letter-spacing="2.2">SOLAR HIJRI CALENDAR</text>
+  <text x="48" y="169" fill="#f3ebdc" class="sans" font-size="38" font-weight="760" letter-spacing="-1">ROOZ</text>
+  <text x="48" y="207" fill="#91a4a3" class="sans" font-size="16">A Persian planner built around the solar Hijri calendar,</text>
+  <text x="48" y="232" fill="#91a4a3" class="sans" font-size="16">with priorities, recurring tasks and labels — laid out</text>
+  <text x="48" y="257" fill="#91a4a3" class="sans" font-size="16">as a star map instead of another flat list.</text>
+  <text x="48" y="290" fill="#55c4b2" class="mono" font-size="10" letter-spacing="1.4">REACT · TYPESCRIPT · ZUSTAND · TAILWIND · THREE.JS</text>
+  <g transform="translate(48 322)">
+    <text x="0" y="0" fill="#91a4a3" class="mono" font-size="10" letter-spacing="1.5">SOLAR HIJRI GRID</text>
+    <text x="280" y="0" fill="#91a4a3" class="mono" font-size="10" letter-spacing="1.5">TASK STAR MAP</text>
+    <g transform="translate(0 14)">
+      <rect x="0" y="0" width="26" height="26" rx="4" fill="#14282c" stroke="#294348"/>
+      <rect x="32" y="0" width="26" height="26" rx="4" fill="#102528" stroke="#55c4b2"/>
+      <rect x="64" y="0" width="26" height="26" rx="4" fill="#14282c" stroke="#294348"/>
+      <rect x="96" y="0" width="26" height="26" rx="4" fill="#14282c" stroke="#294348"/>
+      <rect x="128" y="0" width="26" height="26" rx="4" fill="#14282c" stroke="#294348"/>
+      <rect x="160" y="0" width="26" height="26" rx="4" fill="#102528" stroke="#55c4b2"/>
+      <rect x="192" y="0" width="26" height="26" rx="4" fill="#14282c" stroke="#294348"/>
+      <rect x="0" y="32" width="26" height="26" rx="4" fill="#14282c" stroke="#294348"/>
+      <rect x="32" y="32" width="26" height="26" rx="4" fill="#14282c" stroke="#294348"/>
+      <rect x="64" y="32" width="26" height="26" rx="4" fill="#14282c" stroke="#294348"/>
+      <rect x="96" y="32" width="26" height="26" rx="4" fill="#ffb000"/>
+      <rect x="128" y="32" width="26" height="26" rx="4" fill="#14282c" stroke="#294348"/>
+      <rect x="160" y="32" width="26" height="26" rx="4" fill="#14282c" stroke="#294348"/>
+      <rect x="192" y="32" width="26" height="26" rx="4" fill="#ffb000" opacity="0.55"/>
+    </g>
+    <g transform="translate(280 14)">
+      <path d="M18 44L86 16L160 52L246 10L338 40M86 16L246 10M160 52L338 40" stroke="#294348" stroke-width="1.5"/>
+      <circle cx="18" cy="44" r="6" fill="#081416" stroke="#f3ebdc" stroke-width="2"/>
+      <circle cx="86" cy="16" r="6" fill="#ffb000"/>
+      <circle cx="160" cy="52" r="6" fill="#55c4b2"/>
+      <circle cx="246" cy="10" r="5" fill="#081416" stroke="#f3ebdc" stroke-width="2"/>
+      <circle cx="338" cy="40" r="5" fill="#081416" stroke="#55c4b2" stroke-width="2"/>
+    </g>
+    <text x="0" y="76" fill="#55c4b2" class="mono" font-size="10" letter-spacing="1.4">JALALI → AGENDA → STAR MAP</text>
+  </g>
+  <path d="M34 34H62M34 34V62M686 396H658M686 396V368" stroke="#ffb000" stroke-width="2"/>
+</svg>

@@ -21,29 +21,29 @@
 
 <a href="https://github.com/imanmajdabadi-js/Rooz">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/case-music-mobile.svg" />
-    <img src="./assets/case-music.svg" width="100%" alt="Music Player — Next.js, TypeScript and Tailwind" />
+    <source media="(max-width: 600px)" srcset="./assets/case-rooz-mobile.svg" />
+    <img src="./assets/case-rooz.svg" width="100%" alt="01 · Rooz — a Persian planner built around the solar Hijri calendar, with React, TypeScript, Zustand, Tailwind and Three.js" />
   </picture>
 </a>
 
-<a href="https://github.com/imanmajdabadi-js/advanced-sticky-note">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/case-sticky-mobile.svg" />
-    <img src="./assets/case-sticky.svg" width="100%" alt="Advanced Sticky Note — React, TypeScript, Tailwind and local storage" />
-  </picture>
-</a>
-
-<a href="https://github.com/imanmajdabadi-js/simorgh-control-desk">
+<a href="https://github.com/imanmajdabadi-js/peygirino-client-dashboard">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/case-peygirino-mobile.svg" />
-    <img src="./assets/case-peygirino.svg" width="100%" alt="Peygirino Dashboard — React, TypeScript, Zustand and Tailwind" />
+    <img src="./assets/case-peygirino.svg" width="100%" alt="02 · Peygirino — a Persian right-to-left customer follow-up dashboard built with React, TypeScript, Zustand and Tailwind" />
   </picture>
 </a>
 
-<a href="https://github.com/imanmajdabadi-js/Van-Arsdel-Launch-Control">
+<a href="https://github.com/imanmajdabadi-js/delivery-discrepancy-manager">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/case-peygirino-mobile.svg" />
-    <img src="./assets/case-peygirino.svg" width="100%" alt="Peygirino Dashboard — React, TypeScript, Zustand and Tailwind" />
+    <source media="(max-width: 600px)" srcset="./assets/case-discrepancy-mobile.svg" />
+    <img src="./assets/case-discrepancy.svg" width="100%" alt="03 · Delivery Discrepancy Manager — a role-based case management system built with React, NestJS, PostgreSQL and TypeScript" />
+  </picture>
+</a>
+
+<a href="https://github.com/imanmajdabadi-js/workout-manager">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/case-workout-mobile.svg" />
+    <img src="./assets/case-workout.svg" width="100%" alt="04 · Workout Manager — a training dashboard built with React, Redux Toolkit, TypeScript and Tailwind" />
   </picture>
 </a>
 
