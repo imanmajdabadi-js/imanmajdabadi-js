@@ -26,33 +26,12 @@
   </picture>
 </a>
 
-<a href="https://github.com/imanmajdabadi-js/peygirino-client-dashboard">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/case-peygirino-mobile.svg" />
-    <img src="./assets/case-peygirino.svg" width="100%" alt="02 · Peygirino — a Persian right-to-left customer follow-up dashboard built with React, TypeScript, Zustand and Tailwind" />
-  </picture>
-</a>
-
 <a href="https://github.com/imanmajdabadi-js/delivery-discrepancy-manager">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/case-discrepancy-mobile.svg" />
     <img src="./assets/case-discrepancy.svg" width="100%" alt="03 · Delivery Discrepancy Manager — a role-based case management system built with React, NestJS, PostgreSQL and TypeScript" />
   </picture>
 </a>
-
-<a href="https://github.com/imanmajdabadi-js/workout-manager">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/case-workout-mobile.svg" />
-    <img src="./assets/case-workout.svg" width="100%" alt="04 · Workout Manager — a training dashboard built with React, Redux Toolkit, TypeScript and Tailwind" />
-  </picture>
-</a>
-
-<br />
-
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/toolkit-mobile.svg" />
-  <img src="./assets/toolkit.svg" width="100%" alt="What I reach for" />
-</picture>
 
 <br />
 
