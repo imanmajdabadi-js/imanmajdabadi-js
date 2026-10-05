@@ -19,7 +19,7 @@
   <img src="./assets/section-cases.svg" width="100%" alt="A few things I've built" />
 </picture>
 
-<a href="https://github.com/imanmajdabadi-js/Rooz">
+<a href="https://rooz-gold.vercel.app/">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/case-rooz-mobile.svg" />
     <img src="./assets/case-rooz.svg" width="100%" alt="01 · Rooz — a Persian planner built around the solar Hijri calendar, with React, TypeScript, Zustand, Tailwind and Three.js" />
