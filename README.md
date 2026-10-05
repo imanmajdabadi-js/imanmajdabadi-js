@@ -26,6 +26,13 @@
   </picture>
 </a>
 
+<a href="https://advanced-sticky-note.vercel.app/">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/case-sticky-mobile.svg" />
+    <img src="./assets/case-sticky.svg" width="100%" alt="02 · Advanced Sticky Note — an interactive note workspace with drag, resize, multiple sheets and local persistence, built with React, TypeScript, Tailwind and local storage" />
+  </picture>
+</a>
+
 <a href="https://github.com/imanmajdabadi-js/delivery-discrepancy-manager">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/case-discrepancy-mobile.svg" />
