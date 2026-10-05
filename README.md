@@ -33,10 +33,10 @@
   </picture>
 </a>
 
-<a href="https://github.com/imanmajdabadi-js/delivery-discrepancy-manager">
+<a href="https://simorgh-control-desk.vercel.app/">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/case-discrepancy-mobile.svg" />
-    <img src="./assets/case-discrepancy.svg" width="100%" alt="03 · Delivery Discrepancy Manager — a role-based case management system built with React, NestJS, PostgreSQL and TypeScript" />
+    <source media="(max-width: 600px)" srcset="./assets/case-simorgh-mobile.svg" />
+    <img src="./assets/case-simorgh.svg" width="100%" alt="03 · Simorgh Control Desk — the live control desk for travel operations" />
   </picture>
 </a>
 

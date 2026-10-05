@@ -1,0 +1,34 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Simorgh Control Desk</title>
+  <desc id="desc">Live demo of the Simorgh Control Desk project.</desc>
+  <style>
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  </style>
+  <rect width="1200" height="250" rx="22" fill="#081416"/>
+  <rect x="20" y="20" width="1160" height="210" rx="16" fill="#0d1d20" stroke="#294348"/>
+  <path d="M142 20V230M856 20V230" stroke="#294348"/>
+  <text x="54" y="142" fill="#f3ebdc" class="mono" font-size="64" font-weight="700">03</text>
+  <text x="176" y="58" fill="#ffb000" class="mono" font-size="12" letter-spacing="2.5">PROJECT NOTE / TRAVEL OPERATIONS</text>
+  <text x="176" y="105" fill="#f3ebdc" class="sans" font-size="38" font-weight="720" letter-spacing="-1">SIMORGH CONTROL DESK</text>
+  <text x="176" y="143" fill="#91a4a3" class="sans" font-size="16">The live control desk for travel operations.</text>
+  <text x="176" y="169" fill="#91a4a3" class="sans" font-size="16">Click the card to open the running demo.</text>
+  <text x="176" y="207" fill="#55c4b2" class="mono" font-size="11" letter-spacing="1.7">LIVE DEMO</text>
+  <g transform="translate(884 46)">
+    <rect x="0" y="0" width="256" height="140" rx="10" fill="#102528" stroke="#294348"/>
+    <path d="M0 10A10 10 0 0 1 10 0H246A10 10 0 0 1 256 10V26H0Z" fill="#14282c"/>
+    <path d="M0 26H256" stroke="#294348"/>
+    <circle cx="16" cy="13" r="3.5" fill="#ffb000"/>
+    <circle cx="30" cy="13" r="3.5" fill="#294348"/>
+    <circle cx="44" cy="13" r="3.5" fill="#294348"/>
+    <circle cx="238" cy="13" r="4" fill="#55c4b2"/>
+    <rect x="16" y="44" width="132" height="8" rx="4" fill="#294348"/>
+    <rect x="16" y="44" width="44" height="8" rx="4" fill="#ffb000"/>
+    <rect x="16" y="66" width="180" height="8" rx="4" fill="#294348"/>
+    <rect x="16" y="88" width="96" height="8" rx="4" fill="#294348"/>
+    <rect x="196" y="44" width="44" height="52" rx="6" fill="#14282c" stroke="#294348"/>
+    <rect x="204" y="54" width="28" height="6" rx="3" fill="#55c4b2"/>
+    <text x="0" y="160" fill="#91a4a3" class="mono" font-size="10" letter-spacing="1.6">LIVE DEMO</text>
+  </g>
+  <path d="M34 34H62M34 34V62M1166 216H1138M1166 216V188" stroke="#ffb000" stroke-width="2"/>
+</svg>
